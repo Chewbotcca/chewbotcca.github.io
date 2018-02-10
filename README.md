@@ -4,13 +4,15 @@ We're Chewbotcca. We make bots.
 
 ## Table of Bots
 
-Name                                       | Repo                                                 | Platform | Language | Status
------------------------------------------- | ---------------------------------------------------- | -------- | -------- | -----------------------------------------
-[ChewbotccaIRC](http://irc.chewbotcca.co)  | [Chewbotcca/IRC](http://git.io/ChewbotccaIRC)        | IRC      | Ruby     | Active Development
-IdleRPG                                    | [Chewbotcca/IdleRPG](https://git.io/vAte5)           | IRC      | Ruby     | Pretty active
-GitHubIRCTopicBot                          | [Chewbotcca/GitHubIRCTopicBot](https://git.io/vAte9) | IRC      | Ruby     | Development Slowed
-ToggleActiveBot                            | [Chewbotcca/ToggleActiveBot](https://git.io/vAte7)   | IRC      | Ruby     | Development Halted
-[Chewbotcca](http://discord.chewbotcca.co) | [Chewbotcca/Discord](https://git.io/vAteF)           | Discord  | Ruby     | Abandoned ([Why?](help/discordabandoned))
+Name                                       | Repo                                                           | Platform | Language | Status
+------------------------------------------ | -------------------------------------------------------------- | -------- | -------- | -----------------------------------------
+[ChewbotccaIRC](http://irc.chewbotcca.co)  | [Chewbotcca/IRC](http://git.io/ChewbotccaIRC)                  | IRC      | Ruby     | Active Development
+SpamBeGone                                 | [Chewbotcca/SpamBeGone](https://git.io/vAteN)                  | IRC      | Ruby     | Active Development
+HowMuchLitecoinHasChewMined                | [Chewbotcca/HowMuchLitecoinHasChewMined](https://git.io/vAtej) | IRC      | Ruby     | Active Development
+IdleRPG                                    | [Chewbotcca/IdleRPG](https://git.io/vAte5)                     | IRC      | Ruby     | Development Halted
+GitHubIRCTopicBot                          | [Chewbotcca/GitHubIRCTopicBot](https://git.io/vAte9)           | IRC      | Ruby     | Development Halted
+ToggleActiveBot                            | [Chewbotcca/ToggleActiveBot](https://git.io/vAte7)             | IRC      | Ruby     | Development Halted
+[Chewbotcca](http://discord.chewbotcca.co) | [Chewbotcca/Discord](https://git.io/vAteF)                     | Discord  | Ruby     | Abandoned ([Why?](help/discordabandoned))
 
 ## Other Repositories we own
 
